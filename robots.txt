@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://stpark.github.io/sitemap.xml
+Sitemap: https://stpark7.github.io/sitemap.xml
